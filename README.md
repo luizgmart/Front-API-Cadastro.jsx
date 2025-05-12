@@ -6,6 +6,6 @@ Este é o frontend de uma aplicação fullstack que permite o cadastro, listagem
 
 - Vite + React
 - CSS
-- TypeScript
+- JavaScript
 - Axios
 
